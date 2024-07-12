@@ -28,6 +28,7 @@ Difference between Host based IDS / IPS and Network based IDS / IPS
 ![ids vs ips](https://github.com/user-attachments/assets/251798f5-1481-4e97-94ca-b711dc320a76)
 
 What is Snort
+
 Snort is an open-source IDS/IPS (Intrusion Detection System / Intrusion Prevention System) that monitors network traffic based on user-defined rules. It is widely used to detect and prevent a variety of network threats.
 
 Features of Snort
@@ -36,6 +37,7 @@ Features of Snort
 3.	Network Intrusion Detection System (NIDS): In NIDS mode, Snort analyses network traffic against a set of predefined rules to detect suspicious activity.
 
 Snort Rule Structure
+
 ![rules syntax](https://github.com/user-attachments/assets/b6ed54b4-4191-4539-82bf-49048f2d3358)
 
 Types of Snort Rules
@@ -81,7 +83,7 @@ Snort Configuration
 ![snort_8](https://github.com/user-attachments/assets/9eb55c1f-7c40-4b48-97b7-7951fc9a08d5)
 
 Implementation of Snort Custom Detection Rule
-Open the “local.Rules” file to create a new custom detection rule. 
+ Open the “local.Rules” file to create a new custom detection rule. 
 ![rule file ope](https://github.com/user-attachments/assets/911810f0-bd3e-4168-8b19-8dd423a9a1f9)
 
 Ping Alert Detection Rule
