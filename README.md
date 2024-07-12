@@ -163,7 +163,9 @@ Eternal Blue Attack Detection Rule
 9. Successfully detected eternal blue on the local network.
  
 Conclusion
+
 Implementing Snort as an IDS/IPS solution provides robust network security through its customizable, open-source, rule-based system. Combined with Snorpy, It becomes easier for users to manage rules, enhancing threat detection and response capabilities.
 
 Disclaimer
+
 Snort's creators are not responsible for any illegal or unethical use. It is intended solely for legitimate security purposes and must be used in compliance with all applicable laws and regulations.
