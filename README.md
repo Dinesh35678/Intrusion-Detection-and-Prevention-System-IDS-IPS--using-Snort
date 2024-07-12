@@ -1,4 +1,4 @@
-# IDS/IPS using Snort
+# Intrusion Detection and Prevention System (IDS/IPS) using Snort
 
 Theoretical Demonstration
 
