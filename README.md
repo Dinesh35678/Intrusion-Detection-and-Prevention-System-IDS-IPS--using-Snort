@@ -46,6 +46,7 @@ Types of Snort Rules
 3.	Subscription Rules: Premium, up-to-date rules available to paying subscribers, offering the latest threat detection capabilities.
 
 Snorpy tool
+
 Snorpy is a web-based GUI that simplifies Snort rule creation and management, providing an intuitive interface for customizing rules, reducing syntax errors, and efficiently generating and exporting Snort-compatible rules.
 
 Link - Snorpy 2.0 - Web Based Snort Rule Creator (cyb3rs3c.net)
