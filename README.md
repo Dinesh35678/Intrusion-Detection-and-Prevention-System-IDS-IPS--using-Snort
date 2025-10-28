@@ -104,10 +104,18 @@ Snorpy is a web-based GUI that simplifies Snort rule creation and management, pr
 5. **Set the subnet IP address of the connected network in Network variables**.
 ![snort_5](https://github.com/user-attachments/assets/2e54fdca-88e7-4b04-80dc-136915a28f9a)
 
-6. **Disable the Pre-defined Rules set using the # symbol**.
+6. **TO make numbering on the vim console**
+
+   <img width="485" height="115" alt="image" src="https://github.com/user-attachments/assets/b8d033e1-4ae3-40fe-b610-7eebce47cb9a" />
+
+8. **type the below commands and save it :wq**
+
+   <img width="175" height="83" alt="image" src="https://github.com/user-attachments/assets/41d4e7c7-ff79-4907-bc84-1b8b7e2e8b3d" />
+
+9. **Disable the Pre-defined Rules set using the # symbol**.
 ![snort_7](https://github.com/user-attachments/assets/1d6391ac-8728-4e7a-8994-eaf5335fe064)
 
-7. **Run the snort.conf file and check whether the Snort tool is working properly**.
+10. **Run the snort.conf file and check whether the Snort tool is working properly**.
 ![snort_8](https://github.com/user-attachments/assets/9eb55c1f-7c40-4b48-97b7-7951fc9a08d5)
 
 ---
