@@ -94,16 +94,19 @@ Snorpy is a web-based GUI that simplifies Snort rule creation and management, pr
 1. **Specify the subnet IP address of the connected network in scope**.
 ![snort_2](https://github.com/user-attachments/assets/5a994336-27fc-48fd-84f0-6161a3cce08d)
 
-2. **Open the Snort configuration file**.
+2. set up promiscous mode
+   <img width="434" height="74" alt="image" src="https://github.com/user-attachments/assets/b330237e-2f68-4b3f-a4fb-1f25ef5769f5" />
+ 
+4.  **Open the Snort configuration file**.
 ![snort_4](https://github.com/user-attachments/assets/055083f7-ae0f-4e47-b54e-be8a24c10882)
 
-3. **Set the subnet IP address of the connected network in Network variables**.
+5. **Set the subnet IP address of the connected network in Network variables**.
 ![snort_5](https://github.com/user-attachments/assets/2e54fdca-88e7-4b04-80dc-136915a28f9a)
 
-4. **Disable the Pre-defined Rules set using the # symbol**.
+6. **Disable the Pre-defined Rules set using the # symbol**.
 ![snort_7](https://github.com/user-attachments/assets/1d6391ac-8728-4e7a-8994-eaf5335fe064)
 
-5. **Run the snort.conf file and check whether the Snort tool is working properly**.
+7. **Run the snort.conf file and check whether the Snort tool is working properly**.
 ![snort_8](https://github.com/user-attachments/assets/9eb55c1f-7c40-4b48-97b7-7951fc9a08d5)
 
 ---
