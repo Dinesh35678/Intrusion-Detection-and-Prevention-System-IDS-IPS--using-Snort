@@ -94,7 +94,8 @@ Snorpy is a web-based GUI that simplifies Snort rule creation and management, pr
 1. **Specify the subnet IP address of the connected network in scope**.
 ![snort_2](https://github.com/user-attachments/assets/5a994336-27fc-48fd-84f0-6161a3cce08d)
 
-2. set up promiscous mode
+2. **set up promiscous mode**
+   
    <img width="434" height="74" alt="image" src="https://github.com/user-attachments/assets/b330237e-2f68-4b3f-a4fb-1f25ef5769f5" />
  
 4.  **Open the Snort configuration file**.
