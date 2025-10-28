@@ -84,6 +84,13 @@ Snorpy is a web-based GUI that simplifies Snort rule creation and management, pr
 
 ---
 
+""Ubuntu / Debian-based systems - Update your package list and install Vim""
+sudo apt update
+sudo apt install vim -y
+
+**Check the installation""
+vim --version
+
 ### Snort Installation
 
 1. **Install Snort tool on the Ubuntu machine**.
