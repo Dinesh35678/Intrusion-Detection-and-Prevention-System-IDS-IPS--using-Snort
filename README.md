@@ -73,9 +73,14 @@ Snorpy is a web-based GUI that simplifies Snort rule creation and management, pr
 ### Pre-requisites Setup
 1. Snort tool.
 2. Ubuntu Machine.
-3. Kali Linux Machine.
-4. Metasploit Machine.
-5. Windows Machine.
+
+   <img width="1105" height="537" alt="image" src="https://github.com/user-attachments/assets/4b92d8e1-1aed-4997-adfe-c7336151c67d" />
+
+4. Kali Linux Machine.
+   
+
+6. Metasploit Machine.
+7. Windows Machine.
 
 ---
 
